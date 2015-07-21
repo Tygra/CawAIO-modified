@@ -343,7 +343,7 @@ namespace CawAIO
                                             }
                                             if (wplayer.WarningCount >= config.AmountofWarningBeforeAction)
                                             {
-                                                TShock.Bans.AddBan(player.IP, player.Name, player.UUID, config.KickMessage, false, player.UserAccountName, DateTime.UtcNow.AddMinutes(config.BanTimeInMinutes).ToString("m"));
+                                                TShock.Bans.AddBan(player.IP, player.Name, player.UUID, config.KickMessage, false, player.User.Name, DateTime.UtcNow.AddMinutes(config.BanTimeInMinutes).ToString("m"));
                                             }
                                             else
                                             {
@@ -355,7 +355,7 @@ namespace CawAIO
                                     }
                                     else
                                     {
-                                        TShock.Bans.AddBan(player.IP, player.Name, player.UUID, config.KickMessage, false, player.UserAccountName, DateTime.UtcNow.AddMinutes(config.BanTimeInMinutes).ToString("m"));
+                                        TShock.Bans.AddBan(player.IP, player.Name, player.UUID, config.KickMessage, false, player.User.Name, DateTime.UtcNow.AddMinutes(config.BanTimeInMinutes).ToString("m"));
                                     }
                                     return;
                                 case "ban":
@@ -370,7 +370,7 @@ namespace CawAIO
                                             }
                                             if (wplayer.WarningCount >= config.AmountofWarningBeforeAction)
                                             {
-                                                TShock.Bans.AddBan(player.IP, player.Name, player.UUID, config.KickMessage, false, player.UserAccountName);
+                                                TShock.Bans.AddBan(player.IP, player.Name, player.UUID, config.KickMessage, false, player.User.Name);
                                             }
                                             else
                                             {
@@ -382,7 +382,7 @@ namespace CawAIO
                                     }
                                     else
                                     {
-                                        TShock.Bans.AddBan(player.IP, player.Name, player.UUID, config.KickMessage, false, player.UserAccountName);
+                                        TShock.Bans.AddBan(player.IP, player.Name, player.UUID, config.KickMessage, false, player.User.Name);
                                     }
                                     return;
                                 case "kick":
