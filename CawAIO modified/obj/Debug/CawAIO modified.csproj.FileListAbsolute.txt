@@ -1,0 +1,13 @@
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\CawAIO modified.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\CawAIO modified.pdb
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\TerrariaServer.exe
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\TShockAPI.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\Wolfje.Plugins.SEconomy.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\MySql.Data.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\HttpServer.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\BCrypt.Net.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\obj\Debug\CawAIO modified.csprojResolveAssemblyReference.cache
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\obj\Debug\CawAIO modified.dll
+C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\obj\Debug\CawAIO modified.pdb
