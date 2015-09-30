@@ -11,3 +11,8 @@ C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\bin\Debug\Mon
 C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\obj\Debug\CawAIO modified.csprojResolveAssemblyReference.cache
 C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\obj\Debug\CawAIO modified.dll
 C:\Users\Crusader\Desktop\Pluginok\CawAIO modified\CawAIO modified\obj\Debug\CawAIO modified.pdb
+C:\Users\tygra\Desktop\Plugins\CawAIO-modified\CawAIO modified\bin\Debug\CawAIO modified.dll
+C:\Users\tygra\Desktop\Plugins\CawAIO-modified\CawAIO modified\bin\Debug\CawAIO modified.pdb
+C:\Users\tygra\Desktop\Plugins\CawAIO-modified\CawAIO modified\obj\Debug\CawAIO modified.csprojResolveAssemblyReference.cache
+C:\Users\tygra\Desktop\Plugins\CawAIO-modified\CawAIO modified\obj\Debug\CawAIO modified.dll
+C:\Users\tygra\Desktop\Plugins\CawAIO-modified\CawAIO modified\obj\Debug\CawAIO modified.pdb
