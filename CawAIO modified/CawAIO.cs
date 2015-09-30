@@ -19,7 +19,6 @@ namespace CawAIO
     [ApiVersion(1, 21)]
     public class CawAIO : TerrariaPlugin
     {
-        public int WarningCount = 0;
         private Config config;
         public DateTime LastCheck = DateTime.UtcNow;
         public DateTime SLastCheck = DateTime.UtcNow;
